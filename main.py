@@ -1,3 +1,8 @@
+# Devina Kachorin
+# 13 septembre 2023
+# TP1 - word_count
+
+
 def count_word(chaine):
     # En utilisant split(), je divise le nombre de chaîne de caractères en utilisant les espaces comme séparateurs
     mots = chaine.split()
